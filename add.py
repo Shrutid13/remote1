@@ -1,5 +1,7 @@
-Addition function to be added
+Addition function to be added.
 This is created locally to test merge conflict.
+This is boring ....added on github merge conflict.
+
 def add(a,b):
   return a+b
   
